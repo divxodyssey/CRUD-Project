@@ -9,4 +9,7 @@ How to Run This Project
 3. Run the Server:
    - Open the terminal and navigate to the project directory.
    - Run the following command to start the server:
+     ```sh
      python manage.py runserver
+     ```
+
